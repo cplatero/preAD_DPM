@@ -1,7 +1,7 @@
 # preAD_DPM — Benchmarking Parametric Disease Progression Models for Early Detection of Cognitive Decline
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19695261.svg)](https://doi.org/10.5281/zenodo.19695261)
 
 This repository contains the code used in the paper:
 
