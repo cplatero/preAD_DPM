@@ -1,0 +1,52 @@
+MIT License
+
+Copyright (c) 2025 Carlos Platero, Universidad Politécnica de Madrid
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY COMPONENTS
+
+This repository integrates or wraps the following third-party frameworks,
+each governed by its own licence:
+
+1. Leaspy (Python)
+   Repository: https://github.com/aramis-lab/leaspy
+   Licence: BSD 3-Clause
+   Copyright (c) Inria / ICM
+
+2. RPDPM (MATLAB)
+   Repository: https://github.com/Mostafa-Ghazi/RPDPM
+   Licence: MIT
+   Copyright (c) Mostafa Ghazi
+
+Users are responsible for complying with the licences of these
+third-party components when using or redistributing this software.
+
+---
+
+DATA DISCLAIMER
+
+This software was developed and tested using data from the
+Alzheimer's Disease Neuroimaging Initiative (ADNI).
+ADNI data are not distributed with this repository.
+Access to ADNI data is subject to the ADNI Data Sharing and
+Publications Committee policies. Please visit http://adni.loni.usc.edu/
+for information on how to apply for data access.
